@@ -1,11 +1,16 @@
 ### :woman_technologist: Hi there 👋
 ## I'm Marina, junior frontend developer
 
-#### If you want to **contact** me:  
+:fire: Completed the "Web Development" course at Practicum by Yandex  
+:desktop_computer: learning how to create beautiful and user-friendly pages  
+:dog2: have a bull terrier
+
+
+#### :mailbox: If you want to **contact** me:  
 Email: pchupchun@gmail.com  
 Telegram: [@pchupchu](https://t.me/pchupchu)
 
-#### My tech stack:
+#### :hammer_and_wrench: My tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -15,7 +20,7 @@ Telegram: [@pchupchu](https://t.me/pchupchu)
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-#### My statistic:
+#### :zap: My statistic:
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pchupchu&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchupchu&layout=compact" />
 </a>
