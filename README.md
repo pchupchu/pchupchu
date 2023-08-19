@@ -2,8 +2,8 @@
 ## I'm Marina, junior frontend developer
 
 :fire: Completed the "Web Development" course at Practicum by Yandex  
-:desktop_computer: learning how to create beautiful and user-friendly pages  
-:dog2: have a bull terrier
+:desktop_computer: Learning how to create beautiful and user-friendly pages  
+:dog2: Have a bull terrier
 
 
 #### :mailbox: If you want to **contact** me:  
